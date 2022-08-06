@@ -1,0 +1,24 @@
+
+body{
+  padding: 15px;
+  border: 3px solid #00ab44;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,h2 {
+  font-family: 'Playfair Display', serif;
+    color:#00ab44; text-align:center;
+  }
+address, .one, .two{
+  font-family: 'Merriweather', serif;
+  text-align:center;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  background-color:#00ab44; color: white; padding: 9px;
+}
